@@ -79,7 +79,12 @@ button.cancel {
 .header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   margin-bottom: 8px;
+  font-family: Roboto, sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  display: flex;
 }
 
 .title {
@@ -92,3 +97,4 @@ button.cancel {
 .text {
   margin-bottom: 16px;
 }
+
